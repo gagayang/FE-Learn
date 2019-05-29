@@ -106,7 +106,7 @@
 1. antd-mobile
 
 ## 小程序
-1. 微信
+1. [微信](https://github.com/gagayang/wechat)
 2. 支付宝
 3. 今日头条
 
