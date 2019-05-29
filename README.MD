@@ -5,11 +5,11 @@
 2. html5
 
 ## css
-###css
+### css
 1. 	css2
 2. css3
 
-###预编译
+### 预编译
 1. less
 2. sass
 3. scss
@@ -89,7 +89,7 @@
 
 ## 组件
 ### pc
-####vue
+#### vue
 1. iview
 2. element-ui
 3. antd-vue
@@ -98,11 +98,11 @@
 1. antd
 
 ### mobile
-####vue
+#### vue
 1. cube-ui
 2. mint-ui
 
-####react
+#### react
 1. antd-mobile
 
 ## 小程序
@@ -110,7 +110,7 @@
 2. 支付宝
 3. 今日头条
 
-##混合应用
+## 混合应用
 1. weeks
 2. cordova
 3. reactNative
@@ -122,7 +122,7 @@
 2. vscode
 3. sublime text
 
-###调试
+### 调试
 1. chrome
 2. charles
 3. wireshark
